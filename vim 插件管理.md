@@ -60,3 +60,8 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 :NERDTree 打开文件树木
 
+Bundle "pangloss/vim-javascript" 
+注意使用双引号 
+:BundleInstall 安装 
+
+
